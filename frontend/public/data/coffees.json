@@ -5,6 +5,7 @@
     "origin": "エチオピア",
     "roastLevel": "中浅煎り",
     "flavor": ["花香", "ベリー", "グリーンアップル"],
+    "tasteTags": ["fruity", "acidic", "light"],
     "description": "エチオピア発祥の地から。フルーティーで華やかな香りが特徴的な、とても飲みやすいコーヒーです。",
     "pairing": ["ヨーグルト", "ケーキ", "スコーン"],
     "musicGenre": ["ジャズ", "クラシック"]
@@ -15,6 +16,7 @@
     "origin": "ブラジル",
     "roastLevel": "中煎り",
     "flavor": ["ナッツ", "チョコレート", "キャラメル"],
+    "tasteTags": ["nutty", "balanced", "mild"],
     "description": "バランスの取れた味わいと豊かなボディが特徴。日本でもっとも愛されるコーヒー。",
     "pairing": ["ケーキ", "パン", "クッキー"],
     "musicGenre": ["ボサノバ", "ラテンジャズ"]
@@ -23,8 +25,9 @@
     "id": "coffee-003",
     "name": "コロンビア ゲイシャ",
     "origin": "コロンビア",
-    "roastLevel": "中浅煁り",
+    "roastLevel": "中浅煎り",
     "flavor": ["ジャスミン", "レモン", "アプリコット"],
+    "tasteTags": ["fruity", "acidic", "light"],
     "description": "希少な品種ゲイシャを使用。複雑で高級感あふれる香りと味わい。",
     "pairing": ["ケーキ", "ショコラ", "フルーツ"],
     "musicGenre": ["クラシック", "環境音"]
