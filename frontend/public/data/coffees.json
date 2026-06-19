@@ -1,0 +1,62 @@
+[
+  {
+    "id": "coffee-001",
+    "name": "パイクプレイス ロースト",
+    "origin": "ラテンアメリカ",
+    "roastLevel": "Medium",
+    "acidity": "Medium",
+    "depth": "Medium",
+    "flavor": ["ココア", "ナッツ", "なめらか"],
+    "description": "バランスの良い口あたりとほどよいコクがあり、毎日の一杯に合わせやすいコーヒーです。",
+    "pairing": ["チョコレートブラウニー", "バタークロワッサン"],
+    "musicGenre": ["Jazz", "Acoustic"]
+  },
+  {
+    "id": "coffee-002",
+    "name": "ブロンド エスプレッソ",
+    "origin": "ラテンアメリカ",
+    "roastLevel": "Light",
+    "acidity": "High",
+    "depth": "Light",
+    "flavor": ["シトラス", "キャラメル", "軽やか"],
+    "description": "明るい酸味とやさしい甘みが特徴で、朝や軽い休憩時間に向いています。",
+    "pairing": ["レモンケーキ", "フルーツタルト"],
+    "musicGenre": ["Pop", "Acoustic"]
+  },
+  {
+    "id": "coffee-003",
+    "name": "スマトラ",
+    "origin": "インドネシア",
+    "roastLevel": "Dark",
+    "acidity": "Low",
+    "depth": "Full",
+    "flavor": ["ハーブ", "スパイス", "アーシー"],
+    "description": "重厚なコクと落ち着いた後味を持ち、深く集中したい時間に合うコーヒーです。",
+    "pairing": ["チーズデニッシュ", "シナモンロール"],
+    "musicGenre": ["Classical", "Lo-fi"]
+  },
+  {
+    "id": "coffee-004",
+    "name": "カフェ ベロナ",
+    "origin": "ラテンアメリカ、アジア太平洋",
+    "roastLevel": "Dark",
+    "acidity": "Low",
+    "depth": "Full",
+    "flavor": ["ダークココア", "ロースト感", "甘い余韻"],
+    "description": "深いロースト感と甘い余韻があり、デザートと合わせると味わいが引き立ちます。",
+    "pairing": ["チョコレートブラウニー", "チーズケーキ"],
+    "musicGenre": ["Soul", "Jazz"]
+  },
+  {
+    "id": "coffee-005",
+    "name": "エチオピア",
+    "origin": "エチオピア",
+    "roastLevel": "Medium",
+    "acidity": "High",
+    "depth": "Medium",
+    "flavor": ["ベリー", "シトラス", "フローラル"],
+    "description": "華やかな香りと果実感のある酸味が広がる、気分を切り替えたい時に合うコーヒーです。",
+    "pairing": ["フルーツタルト", "レモンケーキ"],
+    "musicGenre": ["R&B", "Pop"]
+  }
+]

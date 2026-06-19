@@ -1,0 +1,34 @@
+[
+  {
+    "id": "note-001",
+    "coffeeName": "パイクプレイス ロースト",
+    "foodName": "バタークロワッサン",
+    "musicName": "Morning Steps",
+    "scene": "朝の作業前",
+    "description": "なめらかなコーヒーと軽い焼き菓子で、落ち着いて一日を始められる組み合わせ。"
+  },
+  {
+    "id": "note-002",
+    "coffeeName": "ブロンド エスプレッソ",
+    "foodName": "レモンケーキ",
+    "musicName": "Bright Sidewalk",
+    "scene": "昼前の休憩",
+    "description": "明るい酸味と爽やかな甘みを合わせ、短い休憩でも気分を切り替えやすい。"
+  },
+  {
+    "id": "note-003",
+    "coffeeName": "スマトラ",
+    "foodName": "シナモンロール",
+    "musicName": "Quiet Desk",
+    "scene": "午後の集中時間",
+    "description": "重厚なコクと穏やかな音で、深く集中したい作業に向いた組み合わせ。"
+  },
+  {
+    "id": "note-004",
+    "coffeeName": "カフェ ベロナ",
+    "foodName": "チョコレートブラウニー",
+    "musicName": "Velvet Cup",
+    "scene": "夜のリラックス",
+    "description": "深煎りの甘い余韻と濃厚なデザートを合わせ、ゆっくり過ごす時間に合う。"
+  }
+]

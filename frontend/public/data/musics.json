@@ -1,0 +1,51 @@
+[
+  {
+    "id": "music-001",
+    "title": "Morning Steps",
+    "artist": "Blue Table Trio",
+    "genre": "Jazz",
+    "scene": "朝の準備をしながら落ち着いて飲みたい時"
+  },
+  {
+    "id": "music-002",
+    "title": "Soft Window",
+    "artist": "Mina Hay",
+    "genre": "Acoustic",
+    "scene": "読書や軽い作業に集中したい時"
+  },
+  {
+    "id": "music-003",
+    "title": "Bright Sidewalk",
+    "artist": "The Citrus Notes",
+    "genre": "Pop",
+    "scene": "気分を切り替えて外に出る前"
+  },
+  {
+    "id": "music-004",
+    "title": "Quiet Desk",
+    "artist": "Loop Harbor",
+    "genre": "Lo-fi",
+    "scene": "午後の作業に集中したい時"
+  },
+  {
+    "id": "music-005",
+    "title": "Deep Room",
+    "artist": "North Chamber Ensemble",
+    "genre": "Classical",
+    "scene": "夜に静かに考えごとをしたい時"
+  },
+  {
+    "id": "music-006",
+    "title": "Velvet Cup",
+    "artist": "Rue Seven",
+    "genre": "Soul",
+    "scene": "デザートと一緒にゆっくり過ごしたい時"
+  },
+  {
+    "id": "music-007",
+    "title": "Berry Light",
+    "artist": "Nia Bloom",
+    "genre": "R&B",
+    "scene": "華やかな香りのコーヒーで休憩したい時"
+  }
+]
